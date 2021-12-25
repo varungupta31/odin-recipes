@@ -1,0 +1,41 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: yellow;    
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+li {
+    background-color: greenyellow;
+    color: red;
+    font-size: 28px;
+    
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.brownie {
+    background-color: turquoise;
+    text-align: center;
+
+}
+
+.pizza {
+    background-color: red;
+    color: yellow;
+    text-align: center;
+
+}
+
+.coffee {
+    background-color: sandybrown;
+    color: black;
+    text-align: center;
+}
